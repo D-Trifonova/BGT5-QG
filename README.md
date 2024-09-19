@@ -32,3 +32,7 @@ $ fastapi run main.py --port 8010
 ```bash
 $ fastapi run main.py --port 8012
 ```
+## License
+## License
+
+BGT5-QG is completely free and open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT).
